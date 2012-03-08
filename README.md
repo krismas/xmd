@@ -1,5 +1,13 @@
 XMD - Markdown for MODX
 ===
+
+Objectifs
+---
+
+1. Fusionner l'extension développée par [Ackwa](http://www.ackwa.fr) et celle actuellement disponible dans les extras de MODX : [MarkdownParser](http://modx.com/extras/package/markdownparser).
+2. Ajouter quelques extensions disponibles sur GIT (ex. [TOC extension](https://github.com/mytharcher/PHP-Markdown-Extra))
+3. Généraliser en interne l'usage de Markdown.
+
 Sources
 ---
 - [Markdown Syntax](http://daringfireball.net/projects/markdown)
