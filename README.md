@@ -22,3 +22,8 @@ Sources
 - [TOC extension](https://github.com/mytharcher/PHP-Markdown-Extra)
 - [Forms extension](https://github.com/rmcvey/PHP-Markdown-Forms)
 - [Misc Extensions](https://github.com/egil/php-markdown-extra-extended)
+- [Syntax GITHub](http://github.github.com/github-flavored-markdown)
+
+Idées
+---
+- [Interface markdown -> Impress](https://github.com/bmcmurray/hekyll)
