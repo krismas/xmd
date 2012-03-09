@@ -23,7 +23,9 @@ Sources
 - [Forms extension](https://github.com/rmcvey/PHP-Markdown-Forms)
 - [Misc Extensions](https://github.com/egil/php-markdown-extra-extended)
 - [Syntax GITHub](http://github.github.com/github-flavored-markdown)
+- [Showdown test script](http://softwaremaniacs.org/playground/showdown-highlight)
 
 Idées
 ---
 - [Interface markdown -> Impress](https://github.com/bmcmurray/hekyll)
+- Support tabulations
